@@ -10,8 +10,8 @@
   "author": "Slock.it Developer",
   "license": "MIT",
   "dependencies": {
-    "ethereumjs-util": "^6.1.0",
-    "in3": "^2.0.3-RC1",
+    "ethereumjs-util": "^6.2.1",
+    "in3": "^3.2.0",
     "typescript": "^3.6.3",
     "web3": "^1.2.0"
   }
